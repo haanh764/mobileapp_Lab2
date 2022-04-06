@@ -1,8 +1,8 @@
 # Mobile and Multimedia System Lab 2 - Task Manager Application
 
-<img src="./imgs/1649275801938.jpg" width="150" height="100"> &nbsp; <img src="./imgs/1649275801928.jpg" width="150" height="100"> &nbsp; <img src="./imgs/1649275801918.jpg" width="150" height="100"> &nbsp; <img src="./imgs/1649275801908.jpg" width="150" height="100"> &nbsp;
-<img src="./imgs/1649275801877.jpg" width="150" height="100"> &nbsp;
-<img src="./imgs/1649275801865.jpg" width="150" height="100"> 
+<img src="./imgs/1649275801938.jpg" width="150"> &nbsp; <img src="./imgs/1649275801928.jpg" width="150"> &nbsp; <img src="./imgs/1649275801918.jpg" width="150"> &nbsp; <img src="./imgs/1649275801908.jpg" width="150"> &nbsp;
+<img src="./imgs/1649275801877.jpg" width="150"> &nbsp;
+<img src="./imgs/1649275801865.jpg" width="150"> 
 
 Feature:
 
