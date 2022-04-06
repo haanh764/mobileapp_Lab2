@@ -15,7 +15,7 @@ class _Task_InfoState extends State<CompletedTaskInfo> {
   @override
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 24.0),
+      padding: const EdgeInsets.symmetric(horizontal: 14.0),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         children: [
@@ -32,7 +32,7 @@ class _Task_InfoState extends State<CompletedTaskInfo> {
                           TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                     ),
                     Padding(
-                      padding: EdgeInsets.only(left: 170.0),
+                      padding: EdgeInsets.only(left: 50.0),
                       child: ClearTodosBtn(),
                     ),
                   ],
